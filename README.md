@@ -1,7 +1,7 @@
-<h1 align="center">Diogo Tognolli</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,35:1D4ED8,70:06B6D4,100:0EA5E9&text=Diogo%20Tognolli&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%7C%20React%20%7C%20APIs&descAlignY=55" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+React;APIs%2C+Dashboards%2C+Automation+and+Real+World+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=980&lines=Building+real-world+systems;C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+React;Dashboards%2C+Automation%2C+OCR%2C+APIs+and+Product+Thinking" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,30 +13,42 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tognolli0&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</p>
+
 ---
 
 ## About Me
 
-Desenvolvedor full stack com foco principal em **C#**, **.NET**, **ASP.NET Core**, **React** e **solucoes voltadas para cenarios reais**.
+Desenvolvedor full stack com foco principal em **C#**, **.NET**, **ASP.NET Core** e **React**, construindo solucoes tecnicas voltadas para **cenarios reais**, **rastreabilidade**, **dashboards**, **OCR** e **automacao de processos**.
 
-Meu GitHub foi organizado para destacar projetos de portfolio com mais valor tecnico, separando estudos e laboratorios da vitrine principal.
+Meu perfil foi reorganizado para destacar projetos com mais valor tecnico e separar estudos da vitrine principal.
 
-- Foco em back-end e full stack
-- Interesse em APIs, rastreabilidade, dashboards, OCR e automacao
-- Portfolio organizado para mostrar projeto real, nao repositorio solto
+- Forte inclinacao para back-end e arquitetura de APIs
+- Experiencia com stacks full stack conectando interface, regras de negocio e banco
+- Portfolio pensado para mostrar entrega, contexto e evolucao tecnica
 
 ---
 
 ## GitHub Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tognolli0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tognolli0&layout=compact&theme=tokyonight&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tognolli0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tognolli0&layout=compact&theme=tokyonight&border_radius=14" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Tognolli0&theme=tokyonight&border_radius=14" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tognolli0&theme=algolia&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## Tech Stack
+## Core Stack
 
 ### Back-end
 
@@ -66,6 +78,10 @@ Meu GitHub foi organizado para destacar projetos de portfolio com mais valor tec
 
 ## Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### [Dashboard_Gestao_Casal_React](https://github.com/Tognolli0/Dashboard_Gestao_Casal_React)
 Aplicacao full stack em **React + ASP.NET Core** para gestao financeira com OCR, dashboard e estrutura de produto.
 
@@ -75,15 +91,34 @@ Sistema full stack para logistica de viagens com **React**, **ASP.NET Core** e *
 ### [AuditService.API](https://github.com/Tognolli0/AuditService.API)
 API para centralizacao de auditoria, logs e rastreabilidade entre sistemas corporativos.
 
+    </td>
+    <td width="50%" valign="top">
+
 ### [FaceID-CSharp---FaceONNX](https://github.com/Tognolli0/FaceID-CSharp---FaceONNX)
 PoC de biometria facial offline em **C#** com **FaceONNX** e **ONNX Runtime**.
 
 ### [Dashboard_Interativo](https://github.com/Tognolli0/Dashboard_Interativo)
 Dashboard corporativo em **Blazor Server** com indicadores, graficos e estrutura pronta para integracao.
 
+### Portfolio Strategy
+Repositorios principais ativos para portfolio. Estudos e experimentos arquivados para manter o perfil mais forte, limpo e profissional.
+
+    </td>
+  </tr>
+</table>
+
 ---
 
-## Profile Strategy
+## What I Like Building
 
-Os repositórios principais foram mantidos ativos como portfolio.
-Projetos de estudo, cursos e experimentos foram arquivados para manter o perfil mais limpo e mais profissional.
+- APIs robustas e organizadas
+- Dashboards com leitura visual forte
+- Sistemas full stack conectando regra de negocio e interface
+- Automacoes que economizam trabalho manual
+- Projetos com contexto real e valor pratico
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,35:1D4ED8,70:06B6D4,100:0EA5E9" />
+</p>
